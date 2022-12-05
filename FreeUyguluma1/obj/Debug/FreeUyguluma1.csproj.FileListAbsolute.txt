@@ -1,0 +1,8 @@
+C:\Users\Furkan\source\repos\FreeUyguluma1\FreeUyguluma1\bin\Debug\FreeUyguluma1.exe.config
+C:\Users\Furkan\source\repos\FreeUyguluma1\FreeUyguluma1\bin\Debug\FreeUyguluma1.exe
+C:\Users\Furkan\source\repos\FreeUyguluma1\FreeUyguluma1\bin\Debug\FreeUyguluma1.pdb
+C:\Users\Furkan\source\repos\FreeUyguluma1\FreeUyguluma1\obj\Debug\FreeUyguluma1.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\FreeUyguluma1\FreeUyguluma1\obj\Debug\FreeUyguluma1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\FreeUyguluma1\FreeUyguluma1\obj\Debug\FreeUyguluma1.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\FreeUyguluma1\FreeUyguluma1\obj\Debug\FreeUyguluma1.exe
+C:\Users\Furkan\source\repos\FreeUyguluma1\FreeUyguluma1\obj\Debug\FreeUyguluma1.pdb
